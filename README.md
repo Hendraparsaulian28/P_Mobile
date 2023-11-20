@@ -3,5 +3,5 @@
 ## Kelas: T.I 22.A3
 
 # Output
-![gambar](//Tugas/Tugas%20Pemograman%20Mobile/HelloToast/pemograman%20mobile/TUGASPM.png)
-![gambar](//Tugas/Tugas%20Pemograman%20Mobile/HelloToast/pemograman%20mobile/java.png)
+![gambar](https://github.com/Hendraparsaulian28/P_Mobile/blob/main/pemograman%20mobile/TUGASPM.png)
+![gambar](https://github.com/Hendraparsaulian28/P_Mobile/blob/main/pemograman%20mobile/java.png)
